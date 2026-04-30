@@ -83,7 +83,7 @@ Collection of Selenium WebDriver automation scripts
 ### 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/mohd-ismail04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mdismail0417@gmail.com">
